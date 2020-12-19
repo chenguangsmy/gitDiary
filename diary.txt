@@ -1,9 +1,13 @@
-That's strange,
+That's strange, origin add another line
+Master should add a crazy line in need of push back. 
 I should have add some words here
 try another time. 
 
 Another lines connected. But still nothing updated on the github.
-Strage it is!z
+
+Strage it is!
+Because left has nothing right and Right has nothing left. 
+I also tried some other possibilities to up date it.
 
 I also tried some oty!!!her possibilities to up date it.
 isent it?
@@ -14,5 +18,7 @@ Tide rise and fall 几时休。
 
 Kill the unicorn, world belows to the ceturn!!!
 I add some unicorns. 
- Crea
+
 Trying to merge... here
+
+Have another line just because I need a branch vv. 
